@@ -12,7 +12,6 @@ public class AgentMovement : MonoBehaviour
 
     void Update()
     {
-        
         // Check for mouse input.
         if (Input.GetMouseButton(0))
         {
